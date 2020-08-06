@@ -1,6 +1,6 @@
 ## Preview the app
 
-https://codesandbox.io/s/nervous-bush-ugk80?file=/src/index.js
+https://codesandbox.io/s/nervous-bush-ugk80
 
 ## More info
 
